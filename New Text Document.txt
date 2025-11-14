@@ -1,0 +1,2 @@
+cd "D:\test-shabih\forest-fire-master (3)\forest-fire-master"
+python .\forestfire.py
