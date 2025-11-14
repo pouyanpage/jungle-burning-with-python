@@ -1,6 +1,4 @@
-# forest-fire
-Python Simulation of Forest Fire in turtle graphics. 
-
-How to run the simulation:
-
-Run the main() function in the forestfire.py file. The program will prompt for the density of forest, percent of pine vs oak trees, and the forest wetness, and then simulate a forest fire using turtle graphics.
+# jungle-burning
+for run this project please enter bellow command in terminal
+1- cd "D:\test-shabih\forest-fire-master (3)\forest-fire-master"
+2- python .\forestfire.py
